@@ -13,3 +13,9 @@ h3 {
 body {
     font-family: 'Nunito', sans-serif;
 }
+
+#currículo {
+    padding: 100px;
+    border: 10px solid black
+}
+
