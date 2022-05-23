@@ -1,9 +1,8 @@
-// prof, o meu não ta dando certo, eu tentei de várias formas concertar mas não consegui, então vou colocar aqui pra você o que eu pensei
-
-// criei uma função para calcular todas as operações com três parâmentros que o usuário vai colocar no HTML
+//criei a constante do botão para que ele seja puxado do HTML
 
 const button = document.getElementById("resul");
 
+//aqui é a função que mostra o que vai acontecer quando o botão for clicado
 button.addEventListener("click", function(){
 
     // peguei os valores que o usuário colocou
@@ -43,18 +42,7 @@ button.addEventListener("click", function(){
         resultado = v1 % v2;
     };
 
+    //pedi pra mostrar o resultado no HTML
     document.getElementById("resultado").innerHTML = resultado;
 
 })
-
-/*function Calcular(valor1, valor2, operador){
-
-
-
-//criei essa função para poder mostar o resultado na página
-function resultado(){
-    Calcular(valor1, valor2, operador); //chamei a função calcular
-    document.getElementById("resultado").innerHTML = valor1 + operador + valor2 + "=" + resultado(); //pedi pra ele imprimir isso na tela
-}
-
-PROBLEMAS: ele não ta imprimindo e fala que não acha a variável "operador", mas eu não sei porque, uma vez que eu declarei ela*/
