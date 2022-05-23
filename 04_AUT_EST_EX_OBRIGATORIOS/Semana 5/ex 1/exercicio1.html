@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="ex_1.js" defer></script>
+    <title>Exercício 1 </title>
+</head>
+<body>
+    <div>
+        <h2> Calculadora virtual </h2>
+    </div>
+
+    <div> <!-- aqui é para a pessoa colocar o primeiro valor -->
+        <label> Valor 1: </label>
+        <input type="text" id="valor1">
+    </div>
+
+    <div> <!-- aqui é para a pessoa colocar o segundo valor -->
+        <label> Valor 2: </label>
+        <input type="text" id="valor2">
+    </div>
+
+    <div class="op"> <!-- aqui é para ela escolher o operador -->
+        <label> Selecione o operador </label>
+        <select id="opr" required>
+            <option selected disabled value="">Escolha</option>
+            <option value = "+"> + </option>
+            <option value = "-"> - </option>
+            <option value = "*"> * </option>
+            <option value = "/"> / </option>
+            <option value = "//"> // </option>
+            <option value = "%"> % </option>
+        </select>
+    </div>
+
+    <div id="resultado"> </div>
+
+    <button id="resul"> Resultado </button> <!-- aqui é o botão que a pessoa ia clicar e o resultado ia aparecer -->
+
+</body>
+</html>
