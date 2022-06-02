@@ -32,7 +32,7 @@ Minhas entregas estão definidas aqui:
 <br>
 <br>
 <a href="https://github.com/sofipimazzoni/modulo2/tree/main/04_AUT_EST_EX_OBRIGATORIOS/Semana%205">
-23/05/2022 - Entrega 2 (semana 5) </a> (três exercícios)
+19/05/2022 - Entrega 2 (semana 5) </a> (três exercícios)
 <br>
 <br>
 <a href="https://github.com/sofipimazzoni/modulo2/tree/main/04_AUT_EST_EX_OBRIGATORIOS/semana%207">
