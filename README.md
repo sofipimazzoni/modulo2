@@ -30,7 +30,7 @@ Minhas entregas estão definidas aqui:
 <br>
 <br>
 <a href="">
-06/05/2022 - Entrega 2 (semana 5) </a> (três exercícios)
+23/05/2022 - Entrega 2 (semana 5) </a> (três exercícios)
 <br>
 <br>
 <a href="">
