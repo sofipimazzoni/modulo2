@@ -21,11 +21,11 @@ Minhas entregas estão definidas aqui:
 <br>
 <br>
 <a href="">
-00/00/2022 - Entrega 6 </a> (banco de dados com pelo menos um end-point)
+00/05/2022 - Entrega 6 </a> (banco de dados com pelo menos um end-point)
 <br>
 <br>
 <a href="https://github.com/sofipimazzoni/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%207">
-00/00/2022 - Entrega 7 </a> (banco de dados com todos os end-points)
+02/06/2022 - Entrega 7 </a> (banco de dados com todos os end-points)
 ## Obrigatórios
 <a href="https://github.com/sofipimazzoni/modulo2/tree/main/04_AUT_EST_EX_OBRIGATORIOS/Semana%203">
 06/05/2022 - Entrega 1 (semana 3) </a> (um exercício)
