@@ -20,7 +20,7 @@ Minhas entregas estão definidas aqui:
 19/05/2022 - Entrega 5 </a>
 <br>
 <br>
-<a href="">
+<a href="https://github.com/sofipimazzoni/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%206">
 26/05/2022 - Entrega 6 </a> (banco de dados com pelo menos um end-point)
 <br>
 <br>
