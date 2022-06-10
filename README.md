@@ -25,7 +25,11 @@ Minhas entregas estão definidas aqui:
 <br>
 <br>
 <a href="https://github.com/sofipimazzoni/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%207">
-02/06/2022 - Entrega 7 </a> (banco de dados com todos os end-points)
+02/06/2022 - Entrega 7 </a> (banco de dados com todos os end-points
+<br>
+<br>
+<a href="">
+10/06/2022 - Entrega 8 </a> (integração do front-end com o back-end)
 ## Obrigatórios
 <a href="https://github.com/sofipimazzoni/modulo2/tree/main/04_AUT_EST_EX_OBRIGATORIOS/Semana%203">
 06/05/2022 - Entrega 1 (semana 3) </a> (um exercício)
@@ -37,3 +41,7 @@ Minhas entregas estão definidas aqui:
 <br>
 <a href="https://github.com/sofipimazzoni/modulo2/tree/main/04_AUT_EST_EX_OBRIGATORIOS/semana%207">
 02/06/2022 - Entrega 3 (semana 7) </a> (cinco exercícios)
+<br>
+<br>
+<a href="">
+10/06/2022 - Entrega 4 (semana 9) </a> (cinco exercícios)
