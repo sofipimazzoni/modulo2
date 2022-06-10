@@ -28,7 +28,7 @@ Minhas entregas estão definidas aqui:
 02/06/2022 - Entrega 7 </a> (banco de dados com todos os end-points
 <br>
 <br>
-<a href="">
+<a href="https://github.com/sofipimazzoni/modulo2/tree/main/03_AUT_EST_ENTREGA/Semana%208">
 10/06/2022 - Entrega 8 </a> (integração do front-end com o back-end)
 ## Obrigatórios
 <a href="https://github.com/sofipimazzoni/modulo2/tree/main/04_AUT_EST_EX_OBRIGATORIOS/Semana%203">
