@@ -16,11 +16,11 @@ button.addEventListener("click", function(){ // função que checa a veracidade 
         }
 
         if (centena[0] % 2 == 0){ // aqui ele pega apenas o primeiro número (centena) e checa se ele é par
-            document.getElementById("resultado").innerHTML = "O seu número é par!"
+            document.getElementById("resultado").innerHTML = "A sua centena é par!"
         }
 
         else if (centena[0] % 2 != 0){ // aqui ele pega apenas o primeiro número (centena) e checa se ele é ímpar
-            document.getElementById("resultado").innerHTML = "O seu número é ímpar!"
+            document.getElementById("resultado").innerHTML = "A sua centena é ímpar!"
         }
     }
 })
