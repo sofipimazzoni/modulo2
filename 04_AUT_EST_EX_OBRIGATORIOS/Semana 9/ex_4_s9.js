@@ -15,5 +15,9 @@ button.addEventListener("click", function(){ //essa função mostra ao usuário 
         i++
     }
 
-    document.getElementById("resultado").innerHTML = `A sequência de Fibonacci até número referente a posição ${P} é ${lista}` //imprime o resultado na tela
+    lista.pop()
+    lista.pop()
+    lista.pop()
+
+    document.getElementById("resultado").innerHTML = `A sequência de Fibonacci até número referente a posição ${P} é:${lista}` //imprime o resultado na tela
 })
