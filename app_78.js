@@ -6,7 +6,7 @@ const sqlite3 = require('sqlite3').verbose();
 const app = express();
 const DBPATH = '03_AUT_EST_ENTREGA/Semana 8/backend/curriculo.db';
 
-app.use(express.static("frontend/"));
+app.use(express.static("03_AUT_EST_ENTREGA/Semana 8/frontend/"));
  
 app.use(express.json());
 /* Definição dos endpoints do sistema*/
